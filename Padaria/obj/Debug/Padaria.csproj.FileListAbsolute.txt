@@ -1,0 +1,13 @@
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\bin\Debug\Padaria.exe.config
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\bin\Debug\Padaria.exe
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\bin\Debug\Padaria.pdb
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.csproj.AssemblyReference.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.Properties.Resources.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.csproj.GenerateResource.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.csproj.CoreCompileInputs.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.exe
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.pdb
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.frmSobrenos.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.pboxLogo.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.frmLogin.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.frmMenuprincipal.resources
