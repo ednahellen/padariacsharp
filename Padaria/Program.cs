@@ -16,7 +16,7 @@ namespace Padaria
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMenuprincipal());
+            Application.Run(new frmFuncionarios());
         }
     }
 }

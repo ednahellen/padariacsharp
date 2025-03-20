@@ -11,3 +11,5 @@ C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.
 C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.pboxLogo.resources
 C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.frmLogin.resources
 C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.frmMenuprincipal.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.frmFuncionarios.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\Padaria\obj\Debug\Padaria.frmPesquisarFuncionarios.resources
