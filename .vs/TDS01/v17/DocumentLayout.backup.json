@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|c:\\users\\edna.hsry\\documents\\visual studio 2022\\tds01\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|c:\\users\\edna.hsry\\documents\\visual studio 2022\\tds01\\padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|solutionrelative:padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Padaria\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:41:20.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T13:41:20.076Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
               "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\Padaria\\frmCalculadora.cs",
               "RelativeToolTip": "Padaria\\frmCalculadora.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T12:36:13.337Z",
               "EditorCaption": ""

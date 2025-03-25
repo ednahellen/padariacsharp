@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmCalculadora));
-            this.btnCalculadora = new System.Windows.Forms.Button();
+            this.btnCalcular = new System.Windows.Forms.Button();
             this.btnLimpar = new System.Windows.Forms.Button();
             this.btnSair = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -46,18 +46,18 @@
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // btnCalculadora
+            // btnCalcular
             // 
-            this.btnCalculadora.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalculadora.Image = ((System.Drawing.Image)(resources.GetObject("btnCalculadora.Image")));
-            this.btnCalculadora.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCalculadora.Location = new System.Drawing.Point(580, 71);
-            this.btnCalculadora.Name = "btnCalculadora";
-            this.btnCalculadora.Size = new System.Drawing.Size(147, 63);
-            this.btnCalculadora.TabIndex = 8;
-            this.btnCalculadora.Text = "&Calcular";
-            this.btnCalculadora.UseVisualStyleBackColor = true;
-            this.btnCalculadora.Click += new System.EventHandler(this.btnCalculadora_Click);
+            this.btnCalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCalcular.Image = ((System.Drawing.Image)(resources.GetObject("btnCalcular.Image")));
+            this.btnCalcular.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnCalcular.Location = new System.Drawing.Point(580, 71);
+            this.btnCalcular.Name = "btnCalcular";
+            this.btnCalcular.Size = new System.Drawing.Size(147, 63);
+            this.btnCalcular.TabIndex = 8;
+            this.btnCalcular.Text = "&Calcular";
+            this.btnCalcular.UseVisualStyleBackColor = true;
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // btnLimpar
             // 
@@ -70,6 +70,7 @@
             this.btnLimpar.TabIndex = 9;
             this.btnLimpar.Text = "&Limpar";
             this.btnLimpar.UseVisualStyleBackColor = true;
+            this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
             // btnSair
             // 
@@ -82,6 +83,7 @@
             this.btnSair.TabIndex = 10;
             this.btnSair.Text = "&Sair";
             this.btnSair.UseVisualStyleBackColor = true;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
             // label1
             // 
@@ -213,7 +215,7 @@
             this.Controls.Add(this.txtNum1);
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.btnLimpar);
-            this.Controls.Add(this.btnCalculadora);
+            this.Controls.Add(this.btnCalcular);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmCalculadora";
             this.Text = "Calculadora";
@@ -226,7 +228,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnCalculadora;
+        private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.Button btnLimpar;
         private System.Windows.Forms.Button btnSair;
         private System.Windows.Forms.Label label1;
