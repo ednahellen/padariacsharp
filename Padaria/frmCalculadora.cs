@@ -40,71 +40,77 @@ namespace Padaria
 
             //inicializar as variáveis
 
-            try { 
-            num1 = Convert.ToDouble (txtNum1.Text);
-            num2 = Convert.ToDouble(txtNum2.Text);
+            try
+            {
+                num1 = Convert.ToDouble(txtNum1.Text);
+                num2 = Convert.ToDouble(txtNum2.Text);
 
-            
-            if (rdbSomar.Checked)
-            {
-                resp = num1 + num2;
-            }
-            
+                if (!rdbSomar.Checked && !rdbSubtrair.Checked && !rdbMultiplicar.Checked && !rdbDivisao.Checked)
+                {
+                    MessageBox.Show("Selecione uma operação", "Mensagem do sistema",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
 
-           if(rdbSubtrair.Checked)
-            {
-                resp = num1 - num2;
-            }
-            
-
-            if (rdbMultiplicar.Checked)
-            {
-                resp = num1* num2;
-            }
-            
-            if (rdbDivisao.Checked)
-            {
-                resp = num1 / num2;
-                if (num2 == 0)
+                if (rdbSomar.Checked)
+                {
+                    resp = num1 + num2;
+                }
+                else if (rdbSubtrair.Checked)
+                {
+                    resp = num1 - num2;
+                }
+                else if (rdbMultiplicar.Checked)
+                {
+                    resp = num1 * num2;
+                }
+                else if (rdbDivisao.Checked)
+                {
+                    if (num2 == 0)
                     {
                         MessageBox.Show("Impossível dividir por zero", "Mensagem do sistema",
-                        MessageBoxButtons.OK,
-                        MessageBoxIcon.Error,
-                        MessageBoxDefaultButton.Button1);
-                        resp = 0;
+                            MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
                     }
-            }
-            txtResposta.Text = resp.ToString();
+                    resp = num1 / num2;
+                }
+
+                txtResposta.Text = resp.ToString();
             }
             catch (Exception)
             {
                 MessageBox.Show("Inserir somente números", "Mensagem do sistema",
-                MessageBoxButtons.OK,
-                MessageBoxIcon.Error,
-                MessageBoxDefaultButton.Button1);
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtNum1.Clear();
+                txtNum2.Clear();
+                txtResposta.Clear();
             }
         }
 
-
         private void btnSair_Click(object sender, EventArgs e)
-        {
-            //sair do sistema e encerrar processo
-            Application.Exit();
-        }
+            {
+                //sair do sistema e encerrar processo
+                Application.Exit();
+            }
 
-        private void btnLimpar_Click(object sender, EventArgs e)
-        {
-            txtNum1.Text = ""; //limpar a caixa
-            txtNum2.Clear(); //limpar a caixa
-            txtResposta.Clear();
+            private void btnLimpar_Click(object sender, EventArgs e)
+            {
+                txtNum1.Text = ""; //limpar a caixa
+                txtNum2.Clear(); //limpar a caixa
+                txtResposta.Clear();
 
-            rdbSomar.Checked = false;
-            rdbSubtrair.Checked = false;    
-            rdbMultiplicar.Checked = false;
-            rdbDivisao.Checked = false;
+                rdbSomar.Checked = false;
+                rdbSubtrair.Checked = false;    
+                rdbMultiplicar.Checked = false;
+                rdbDivisao.Checked = false;
 
-            txtNum1.Focus();
+                txtNum1.Focus();
             
+            }
+
+        private void frmCalculadora_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

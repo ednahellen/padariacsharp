@@ -1,0 +1,10 @@
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.AssemblyReference.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FolhaPagamento\obj\Debug\FolhaPagamento.frmFolhaPagamento.resources

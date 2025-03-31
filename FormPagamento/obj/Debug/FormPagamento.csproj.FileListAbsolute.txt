@@ -1,0 +1,12 @@
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\bin\Debug\FormPagamento.exe.config
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\bin\Debug\FormPagamento.exe
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\bin\Debug\FormPagamento.pdb
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.csproj.AssemblyReference.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.FP.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.Properties.Resources.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.csproj.GenerateResource.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.csproj.CoreCompileInputs.cache
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.exe
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.pdb
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.FormPagamento.resources
+C:\Users\edna.hsry\Documents\Visual Studio 2022\TDS01\FormPagamento\obj\Debug\FormPagamento.Follha.resources

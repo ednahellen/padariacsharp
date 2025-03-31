@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|c:\\users\\edna.hsry\\documents\\visual studio 2022\\tds01\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1871DEF1-3DBC-4FFD-8EB8-5EAD28A3FB27}|FolhaPagamento\\FolhaPagamento.csproj|c:\\users\\edna.hsry\\documents\\visual studio 2022\\tds01\\folhapagamento\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871DEF1-3DBC-4FFD-8EB8-5EAD28A3FB27}|FolhaPagamento\\FolhaPagamento.csproj|solutionrelative:folhapagamento\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9837C3-2A5A-4515-9F63-D3271B4F9595}|Padaria\\Padaria.csproj|solutionrelative:padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1871DEF1-3DBC-4FFD-8EB8-5EAD28A3FB27}|FolhaPagamento\\FolhaPagamento.csproj|c:\\users\\edna.hsry\\documents\\visual studio 2022\\tds01\\folhapagamento\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1871DEF1-3DBC-4FFD-8EB8-5EAD28A3FB27}|FolhaPagamento\\FolhaPagamento.csproj|solutionrelative:folhapagamento\\frmfolhapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,40 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\Padaria\\Program.cs",
-              "RelativeDocumentMoniker": "Padaria\\Program.cs",
-              "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\Padaria\\Program.cs",
-              "RelativeToolTip": "Padaria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmFolhaPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\FolhaPagamento\\frmFolhaPagamento.cs",
+              "RelativeDocumentMoniker": "FolhaPagamento\\frmFolhaPagamento.cs",
+              "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\FolhaPagamento\\frmFolhaPagamento.cs",
+              "RelativeToolTip": "FolhaPagamento\\frmFolhaPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:41:20.076Z"
+              "WhenOpened": "2025-03-31T14:50:02.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmCalculadora.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\Padaria\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\Padaria\\frmCalculadora.cs [Design]",
-              "RelativeToolTip": "Padaria\\frmCalculadora.cs [Design]",
+              "Title": "frmFolhaPagamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\FolhaPagamento\\frmFolhaPagamento.cs",
+              "RelativeDocumentMoniker": "FolhaPagamento\\frmFolhaPagamento.cs",
+              "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\FolhaPagamento\\frmFolhaPagamento.cs [Design]",
+              "RelativeToolTip": "FolhaPagamento\\frmFolhaPagamento.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T12:00:59.451Z",
+              "WhenOpened": "2025-03-31T14:49:55.726Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmCalculadora.cs",
-              "DocumentMoniker": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\Padaria\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\edna.hsry\\Documents\\Visual Studio 2022\\TDS01\\Padaria\\frmCalculadora.cs",
-              "RelativeToolTip": "Padaria\\frmCalculadora.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T12:36:13.337Z",
-              "EditorCaption": ""
             }
           ]
         }

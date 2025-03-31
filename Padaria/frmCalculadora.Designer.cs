@@ -219,6 +219,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmCalculadora";
             this.Text = "Calculadora";
+            this.Load += new System.EventHandler(this.frmCalculadora_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
